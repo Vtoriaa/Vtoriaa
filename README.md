@@ -4,5 +4,5 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtoriaa&layout=compact&hide_border=true&title_color=AD4AFF&text_color=c9d1d9&bg_color=0d1117&theme=transparent" />
 <div/>
   
- [![My skills](https://skills.thijs.gg/icons?i=figma,html,css,js,bootstrap,react,java,mysql)](https://skills.thijs.gg)
+ [![My skills](https://skills.thijs.gg/icons?i=figma,html,css,js,bootstrap,react,scss,java,mysql)](https://skills.thijs.gg)
 </div>
